@@ -1,0 +1,13 @@
+{
+  "name": "arrest-warrants",
+  "displayName": "arrest-warrants",
+  "expo": {
+    "name": "arrest-warrants",
+    "slug": "arrest-warrants",
+    "scheme": "arrest-warrants",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
